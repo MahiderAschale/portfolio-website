@@ -27,13 +27,13 @@ export default function Projects() {
     },
     {
       id: 3,
-      title: 'PPT and DOC to PDF Converter Website',
+      title: 'Zemenay PPT and DOC to PDF Converter Website',
       description: 'Built a web-based document conversion tool that allows users to convert Word and PowerPoint files into PDF format through a fast and intuitive interface.',
       image: '/pdf converter.jpg',
       tags: ['Next.js', 'Tailwindcss', 'TypeScript', 'React'],
       links: {
-        live: '#',
-        github: '#',
+        live: 'https://zemnaye-pdf-converter-two.vercel.app',
+        github: 'https://github.com/Mahider-Aschale/zemnaye-pdf-converter',
       },
     },
     
