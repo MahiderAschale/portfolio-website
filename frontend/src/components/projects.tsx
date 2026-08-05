@@ -22,7 +22,7 @@ export default function Projects() {
       tags: ['React','postgress', 'Node.js', 'prisma', 'TypeScript','Jitsi Meet API'],
       links: {
         live: '#',
-        github: '#',
+        github: 'https://github.com/MahiderAschale/DMU-election-portal.git',
       },
     },
     {
