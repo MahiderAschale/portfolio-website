@@ -21,7 +21,7 @@ export default function Projects() {
        image: '/evote.jpg',
       tags: ['React','postgress', 'Node.js', 'prisma', 'TypeScript','Jitsi Meet API'],
       links: {
-        live: '#',
+        live: 'https://dmu-election-portal.vercel.app/',
         github: 'https://github.com/MahiderAschale/DMU-election-portal.git',
       },
     },
